@@ -5,6 +5,7 @@ Education
 -Bachelor of Science in Information Technology
 
 Certifications
+-https://courses.cognitiveclass.ai/certificates/31e5bb7c62044b1aa86b984ae1ec501d#
 
 Skillsets
 -Programming
