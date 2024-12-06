@@ -1,10 +1,11 @@
-Name
--Michelle P. Llander
+Name:
+Michelle P. Llander
 
 Education
 -Bachelor of Science in Information Technology
 
-Certifications
+Certifications:
+
 -https://courses.cognitiveclass.ai/certificates/31e5bb7c62044b1aa86b984ae1ec501d#
 
 [Oracle Cloud Infrastructure 2024 Certified Foundations Associate] (https://catalog-education.oracle.com/ords/certview/sharebadge?id=7DFDF3188B8EE057ABACCE8F33E94C879799F9B6203E944EB82B363236D38025&fbclid=IwZXh0bgNhZW0CMTEAAR3n7x4BTN8xdZhCRSrBRqgiigspUs3Z2aOWMYoBKefOElVuUbpdtN3w0yA_aem_G_h9t2bxVJCzCFPfBnggVg)
